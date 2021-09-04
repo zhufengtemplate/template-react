@@ -1,6 +1,7 @@
 {
-  "name": "vite-react-starter",
-  "version": "0.0.0",
+  "name": "<%=name%>",
+  "version": "<%=version%>",
+  "author":"<%author%>"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
